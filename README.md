@@ -4,6 +4,11 @@
   
   <img height="200vh" src="ok.gif"><br>  <a href="https://www.linkedin.com/in/let%C3%ADcia-palaro-a870b0243/" target="_blank"><img height="25vh" src="linkedin.png" target="_blank"></a>
   <a href = "mailto:leticiapalaro@live.com"><img height="25vh" src="contato.png" target="_blank"></a><br>
+
+
+##
+
+<div align="center">
   <img height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img height="40vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -12,7 +17,7 @@
 </div>
 
 ##
-
+  
 <div align="center"><br>
   <a href="https://github.com/leticia-palaro">
   <img width="40%" height="150vh" src="https://github-readme-stats.vercel.app/api?username=leticiapalaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
