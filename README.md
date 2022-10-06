@@ -1,10 +1,9 @@
 <div align="center">
   <h1> Olá, meu nome é Letícia Palaro! </h1>
-  <a href="https://www.linkedin.com/in/let%C3%ADcia-palaro-a870b0243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leticiapalaro@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><br>
   <em>Apaixonada por tecnologia desde a infância, agora na bolha Dev.</em><br><br>
   
-  <img height="150vh" src="https://github.com/leticiapalaro/leticiapalaro/blob/main/ok.gif?raw=true"><br>
+  <img height="200vh" src="ok.gif"><br>  <a href="https://www.linkedin.com/in/let%C3%ADcia-palaro-a870b0243/" target="_blank"><img height="25vh" src="linkedin.png" target="_blank"></a>
+  <a href = "mailto:leticiapalaro@live.com"><img height="25vh" src="contato.png" target="_blank"></a><br>
   <img height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img height="50vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img height="40vh" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
